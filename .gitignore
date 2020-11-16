@@ -142,3 +142,4 @@ media/
 migrations
 */migrations/*.py
 !*/migrations/__init__.py
+app01/
